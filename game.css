@@ -1,0 +1,51 @@
+.head{
+    font-size: 3em;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+
+
+}
+div.color{
+    background-color: rgb(36, 238, 53);
+}
+
+div.fst{
+    background-color: rgb(7, 202, 33);
+    border: 5px 5px;
+    padding: 20px 20px;
+    margin: 50px 50px;
+    border-style: outset;
+
+}
+div.size{
+    text-align: center;
+    width: 100asefde45f;
+    
+
+}
+p.pp{
+    text-align: center;
+    text-transform: uppercase;
+
+
+}
+h2.h22{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    border-top: 20px;
+    padding-top: 20px;
+    
+    
+
+}
+ol.op{
+    text-align: justify;
+    text-transform: inherit;
+    list-style-type: disc;
+    list-style-image: url();
+
+
+}
