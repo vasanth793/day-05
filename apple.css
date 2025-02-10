@@ -20,13 +20,24 @@ div.tt{
     text-align: center;
     color: black;
 }
-body{  
+div.dd{  
+    border-left: -59px;
+    margin-bottom: 60px;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(https://img.teknolojioku.com/rcman/Cw820h461q95gc/storage/files/images/2023/12/09/iphone-16-e6lj-cover-epo5_cover.jpg)
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSpJer98tM136wWIRsKVIQ6vvq90HVNWB4QQanomixU5ZW_aq5LDArAtUuBvH5sokI9fY&usqp=CAU)
 }
 div.h1{
     text-align: center;
     color: rgb(0, 0, 0);
     text-transform: capitalize;
+}
+.button{
+    color: white;
+    background-color: rgb(9, 110, 243);
+    padding: 10px 20px;
+    border-radius: 10px ;
+    margin-left: 550px;
+    margin-bottom: 100px;
+
 }
